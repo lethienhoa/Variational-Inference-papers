@@ -1,5 +1,3 @@
-# Variational Inference papers
-
 | Papers |
 |-----------------|
 | `Variational Inference (rewrite ELBO as expectation over joint distribution of observed and latent variable):` |
