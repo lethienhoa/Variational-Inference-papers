@@ -12,3 +12,5 @@
 | Volodymyr Kuleshov, Stefano Ermon. **Neural Variational Inference and Learning in Undirected Graphical Models**. NIPS 2017 |
 | Cheng Zhang, Judith Butepage, Hedvig Kjellstrom, Stephan Mandt. **Advances in Variational Inference**. Arxiv 2017 |
 | `Amortized Variational Inference - Variational Autoencoders:` |
+| `Wasserstein Variational Inference:` |
+| Luca Ambrogioni, Umut Güçlü, Yağmur Güçlütürk, Max Hinne, Eric Maris, Marcel A. J. van Gerven. **Wasserstein Variational Inference**. Arxiv 2018 |
